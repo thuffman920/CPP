@@ -1,0 +1,4 @@
+abbc
+a--c
+abcc
+text a  c more text
